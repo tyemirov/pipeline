@@ -4,7 +4,7 @@ import (
 	"context"
 	"path/filepath"
 
-	"github.com/temirov/pipeline"
+	"github.com/tyemirov/pipeline"
 	"os"
 )
 

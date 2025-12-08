@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/temirov/pipeline"
+	"github.com/tyemirov/pipeline"
 )
 
 // LsContext holds the shared context for the ls pipeline.

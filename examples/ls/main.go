@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/temirov/pipeline"
-	"github.com/temirov/pipeline/examples/ls/steps"
+	"github.com/tyemirov/pipeline"
+	"github.com/tyemirov/pipeline/examples/ls/steps"
 )
 
 func main() {

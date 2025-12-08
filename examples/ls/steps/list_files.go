@@ -4,7 +4,7 @@ import (
 	"context"
 	"os"
 
-	"github.com/temirov/pipeline"
+	"github.com/tyemirov/pipeline"
 )
 
 // ListFilesStep reads the current directory and outputs each file entry.

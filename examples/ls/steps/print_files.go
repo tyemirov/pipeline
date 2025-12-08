@@ -6,7 +6,7 @@ import (
 
 	"os"
 
-	"github.com/temirov/pipeline"
+	"github.com/tyemirov/pipeline"
 )
 
 // PrintFilesStep prints each file's name to stdout.

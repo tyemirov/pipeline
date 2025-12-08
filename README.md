@@ -1,7 +1,7 @@
 # Pipeline
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/temirov/pipeline.svg)](https://pkg.go.dev/github.com/temirov/pipeline)
-[![Go Report Card](https://goreportcard.com/badge/github.com/temirov/pipeline)](https://goreportcard.com/report/github.com/temirov/pipeline)
+[![Go Reference](https://pkg.go.dev/badge/github.com/tyemirov/pipeline.svg)](https://pkg.go.dev/github.com/tyemirov/pipeline)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tyemirov/pipeline)](https://goreportcard.com/report/github.com/tyemirov/pipeline)
 
 A flexible, composable, and type-safe data processing pipeline framework for Go.
 
@@ -18,7 +18,7 @@ A flexible, composable, and type-safe data processing pipeline framework for Go.
 ## Installation
 
 ```bash
-go get github.com/temirov/pipeline
+go get github.com/tyemirov/pipeline
 ```
 
 ## Quick Start
@@ -32,7 +32,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/temirov/pipeline"
+	"github.com/tyemirov/pipeline"
 )
 
 // Define your data type.
@@ -123,7 +123,7 @@ func main() {
 
 ## Documentation
 
-For detailed documentation and advanced usage examples, please see the [Go package documentation](https://pkg.go.dev/github.com/temirov/pipeline).
+For detailed documentation and advanced usage examples, please see the [Go package documentation](https://pkg.go.dev/github.com/tyemirov/pipeline).
 
 ## Examples
 
